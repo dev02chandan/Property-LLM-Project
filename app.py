@@ -13,7 +13,7 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
 
 # Load property data from JSON file
-@st.cache_data  # Updated cache mechanism
+@st.cache_data
 def load_property_data():
     with open('properties.json', 'r') as f:
         properties = json.load(f)
@@ -22,23 +22,21 @@ def load_property_data():
 properties_info = load_property_data()
 
 def generate_response(query, property_info):
-    # Updated context to include a more polite and professional tone
-    context = f"{property_info['description']} Amenities include: {', '.join(property_info['amenities'])}. Pets policy: {property_info['pets']}."
-    full_query = f"""
-                You are a helpful assistant for XYZ company. 
-                Our company gives out guest houses on rent for a few days.
-                Your role is to politely and professionaly reply to the queries of the client, who have already booked the rooms based on the given context.
-                Given the context: '{context}', how would you professionally answer the guest's question: '{query}'?
-                """
+    # Construct the context with nearby amenities included
+    nearby_info = "Nearby places include: " + ", ".join([f"{key}: {', '.join(values)}" for key, values in property_info['nearby'].items()])
+    context = f"{property_info['description']} Amenities include: {', '.join(property_info['amenities'])}. Pets policy: {property_info['pets']}. {nearby_info}"
+    full_query = f"Given the context: '{context}', how would you professionally answer the guest's question: '{query}'?"
     response = model.generate_content(full_query)
     return response.text
 
 def main():
+    st.image("images/logo.png", width=200)  # Adjust path and size as needed
     st.title('Property Inquiry Chatbot')
 
     # Dropdown to select the property
     property_name = st.selectbox("Select the property you're staying at:", options=list(properties_info.keys()))
     property_info = properties_info[property_name]
+
     # User inputs their question
     user_question = st.text_input("What would you like to know?")
     if user_question:

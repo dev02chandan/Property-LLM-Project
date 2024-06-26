@@ -7,7 +7,12 @@
       "smart TV",
       "on-site parking"
     ],
-    "pets": "welcome with prior notice"
+    "pets": "welcome with prior notice",
+    "nearby": {
+      "restaurants": ["Seaside Grill", "Ocean's Pizza", "Bistro on the Beach"],
+      "playgrounds": ["Sunny Sands Park", "Beachfront Play Area"],
+      "others": ["Miami Beach Boardwalk", "Sunny Mall Shopping Center"]
+    }
   },
   "Cozy Mountain Cabin": {
     "description": "Nestled in the heart of the Rockies, our cozy mountain cabin is perfect for those looking to escape the hustle and bustle of city life.",
@@ -17,14 +22,18 @@
       "ski storage",
       "deck with mountain views"
     ],
-    "pets": "not allowed"
+    "pets": "not allowed",
+    "nearby": {
+      "restaurants": ["Mountain Eatery", "Aspen Bistro", "The Ski Lodge"],
+      "playgrounds": ["Rocky Ridge Adventure Park"],
+      "others": ["Aspen Mountain Ski Resort", "Rocky Mountain Trails"]
+    }
   },
   "Urban Studio Apartment": {
     "description": "Located in the vibrant neighborhood of Manhattan, this modern studio apartment is suited for solo travelers or couples.",
     "amenities": ["Wi-Fi", "smart TV", "coffee maker"],
     "pets": "not allowed"
   },
-
   "Luxury Urban Loft": {
     "description": "Experience the height of luxury in our spacious urban loft in downtown Chicago. The loft features two bedrooms, a modern kitchen with high-end appliances, and a large living space with floor-to-ceiling windows offering stunning city views.",
     "amenities": [
@@ -33,7 +42,16 @@
       "indoor parking",
       "rooftop pool"
     ],
-    "pets": "allowed with restrictions"
+    "pets": "allowed with restrictions",
+    "nearby": {
+      "restaurants": [
+        "The Gourmet Loft",
+        "City Lights Bistro",
+        "High Rise Steakhouse"
+      ],
+      "playgrounds": ["Central Plaza Play Area", "Skyline Park"],
+      "others": ["Downtown Shopping Mall", "City Museum"]
+    }
   },
   "Tranquil Lakeside Retreat": {
     "description": "Escape to our tranquil retreat by the lake in Maine. This three-bedroom cabin offers a peaceful getaway with a private dock, a wraparound porch, and a cozy fireplace.",
@@ -43,7 +61,12 @@
       "outdoor fire pit",
       "fully equipped kitchen"
     ],
-    "pets": "welcome"
+    "pets": "welcome",
+    "nearby": {
+      "restaurants": ["Lakeside Diner", "Pineview Seafood", "Sunset Grill"],
+      "playgrounds": ["Lakefront Kids' Zone"],
+      "others": ["Lakeview Hiking Trails", "Outdoor Adventure Base"]
+    }
   },
   "Historic Countryside Estate": {
     "description": "Stay at our historic countryside estate in the heart of Tuscany. This property includes a vineyard, an olive grove, and a refurbished 18th-century farmhouse.",
@@ -53,7 +76,16 @@
       "gourmet kitchen",
       "outdoor dining area"
     ],
-    "pets": "not allowed"
+    "pets": "not allowed",
+    "nearby": {
+      "restaurants": [
+        "Old Mill Eatery",
+        "Vineyard Vista",
+        "Tuscan Olive Diner"
+      ],
+      "playgrounds": ["Historic Estate Playground"],
+      "others": ["Tuscany Horse Trails", "Local History Museum"]
+    }
   },
   "Chic Parisian Flat": {
     "description": "Our chic Parisian flat in the Marais district features avant-garde décor and is walking distance from Notre Dame. The flat has one bedroom, a luxurious bath, and a balcony with café-style seating.",
@@ -63,7 +95,12 @@
       "washer and dryer",
       "balcony seating"
     ],
-    "pets": "allowed"
+    "pets": "allowed",
+    "nearby": {
+      "restaurants": ["Café de Flore", "Le Marais Bistro", "Parisian Baguette"],
+      "playgrounds": ["Parc de Paris"],
+      "others": ["Louvre Museum", "Seine River Cruises"]
+    }
   },
   "Secluded Beach Bungalow": {
     "description": "Our secluded beach bungalow on the shores of Bali offers private beach access and a serene atmosphere. The bungalow includes one bedroom, an open-air shower, and a hammock for two.",
@@ -73,17 +110,40 @@
       "bike rentals",
       "breakfast included"
     ],
-    "pets": "not allowed"
+    "pets": "not allowed",
+    "nearby": {
+      "restaurants": ["Beachside BBQ", "Tropical Tiki Bar", "Ocean Wave Café"],
+      "playgrounds": ["Sandy Toes Kids' Club"],
+      "others": ["Coral Reef Snorkeling", "Bali Sea Sports Center"]
+    }
   },
   "Modern Downtown Condo": {
     "description": "This modern condo in the heart of Seattle features two bedrooms, two baths, and a chef’s kitchen. Located in the bustling city center, it's close to shopping, dining, and entertainment options.",
     "amenities": ["Wi-Fi", "gym access", "concierge service", "indoor parking"],
-    "pets": "allowed with restrictions"
+    "pets": "allowed with restrictions",
+    "nearby": {
+      "restaurants": [
+        "Urban Eats",
+        "The Downtown Pantry",
+        "Metropolitan Grill"
+      ],
+      "playgrounds": ["City Center Playground"],
+      "others": ["Modern Art Gallery", "Historic Theater District"]
+    }
   },
   "Rustic Ski Lodge": {
     "description": "Located at the base of the Rockies, our rustic ski lodge offers immediate access to ski slopes and includes a cozy lounge with a roaring fireplace.",
     "amenities": ["ski-in/ski-out", "ski storage", "hot tub", "mountain views"],
-    "pets": "welcome"
+    "pets": "welcome",
+    "nearby": {
+      "restaurants": [
+        "Ski Hut Snack Bar",
+        "Mountain Top Café",
+        "Alpine Bistro"
+      ],
+      "playgrounds": ["Snowy Adventures Park"],
+      "others": ["Ski Gear Shop", "Winter Sports Exhibition"]
+    }
   },
   "Elegant Wine Country Villa": {
     "description": "Stay in our elegant villa in Napa Valley surrounded by vineyards. The villa features three bedrooms, a pool, and a large terrace with sweeping views of the valley.",
@@ -93,7 +153,12 @@
       "chef’s kitchen",
       "private tours of local wineries"
     ],
-    "pets": "allowed"
+    "pets": "allowed",
+    "nearby": {
+      "restaurants": ["Vineyard Bites", "Grapevine Grill", "Napa Gourmet"],
+      "playgrounds": ["Grape Stomp Park"],
+      "others": ["Wine Museum", "Vineyard Horse Tours"]
+    }
   },
   "Tropical Rainforest House": {
     "description": "Our house in the heart of a Costa Rican rainforest offers an immersive experience with nature. The house has glass walls, two bedrooms, and a deck.",
@@ -103,7 +168,12 @@
       "private chef",
       "infinity pool"
     ],
-    "pets": "not allowed"
+    "pets": "not allowed",
+    "nearby": {
+      "restaurants": ["Jungle Feast", "Rainforest Refresh", "Treetop Tavern"],
+      "playgrounds": ["Eco Play Area"],
+      "others": ["Rainforest Discovery Trail", "Wildlife Rescue Center"]
+    }
   },
   "Art Deco Suite in Miami": {
     "description": "Experience the glamour of the 1930s in our Art Deco suite on Miami Beach. This suite features custom furniture, ocean views, and a master bedroom with a spa-like bathroom.",
@@ -113,6 +183,11 @@
       "private bar",
       "24-hour concierge"
     ],
-    "pets": "welcome"
+    "pets": "welcome",
+    "nearby": {
+      "restaurants": ["Deco Diner", "Ocean Drive Seafood", "1920's Jazz Café"],
+      "playgrounds": ["Miami Beach Playground"],
+      "others": ["Art Deco Historic District", "Lincoln Road Mall"]
+    }
   }
 }
