@@ -13,7 +13,7 @@ genai.configure(api_key=api_key)
 model = genai.GenerativeModel('gemini-pro')
 
 # Load property data from JSON file
-@st.cache
+@st.cache_data  # Updated cache mechanism
 def load_property_data():
     with open('properties.json', 'r') as f:
         properties = json.load(f)
@@ -22,8 +22,14 @@ def load_property_data():
 properties_info = load_property_data()
 
 def generate_response(query, property_info):
+    # Updated context to include a more polite and professional tone
     context = f"{property_info['description']} Amenities include: {', '.join(property_info['amenities'])}. Pets policy: {property_info['pets']}."
-    full_query = f"Answer the question based on the following information: {context} Question: {query}"
+    full_query = f"""
+                You are a helpful assistant for XYZ company. 
+                Our company gives out guest houses on rent for a few days.
+                Your role is to politely and professionaly reply to the queries of the client, who have already booked the rooms based on the given context.
+                Given the context: '{context}', how would you professionally answer the guest's question: '{query}'?
+                """
     response = model.generate_content(full_query)
     return response.text
 
