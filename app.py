@@ -4,6 +4,37 @@ import os
 import requests
 import google.generativeai as genai
 
+# Customizing the Streamlit app
+st.markdown(
+    """
+    <style>
+    .main {
+        background-color: #ffffff;
+    }
+    .title {
+        color: #00aeef;
+        font-family: Verdana;
+    }
+    .header {
+        text-align: center;
+        color: #ca9630;
+        font-family: Verdana;
+    }
+    .text-input {
+        color: #ca9630;
+        font-family: Verdana;
+    }
+    .css-1aumxhk {
+        text-align: center;
+    }
+    .css-1aumxhk img {
+        width: 400px;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Setup Gemini API
 api_key_gemini = os.getenv('GEMINI_API_KEY')
 if api_key_gemini is None:
@@ -41,65 +72,58 @@ properties_info = load_property_data()
 
 # Function to generate responses using Gemini API
 def generate_response(query, context):
-    # prompt = (
-    #     f"You are a sophisticated virtual assistant for XYZ Company, specializing in property management. "
-    #     f"Your task is to analyze the user's question '{query}' and determine the best way to respond. "
-    #     f"Consider the context: '{context}'. If the inquiry relates to specific local locations such as restaurants, playgrounds, or gyms, "
-    #     f"you should identify this need and respond with 'PLACES_API CALL,[location type]'. For more general inquiries about property features or details, "
-    #     f"use the available data from our property database to craft a detailed answer directly."
-    # )
-
     prompt = f'''
-                You are an advanced language model designed to assist with inquiries about rental properties based on specific context provided.
-                Your responses should be formal and detailed. 
-                Use the context to answer any questions as accurately as possible.
-                Context is given in triple backticks. 
-                If a question falls outside the given context, respond by stating that you cannot answer the question based on the information provided.
-
+                You are an advanced language model designed to assist with inquiries about rental properties. Your responses should be formal, detailed, and conversational, resembling how a kind and helpful person would converse. Use the provided information to answer any questions as accurately as possible. The information is given in triple backticks. 
+                If you don't have the answer, Please say: "Unfortunately I am not aware how to answer that question. Can you try framing it in a different way?"
                 ```
                 {context}
                 ```
 
                 Question: {query}
                 '''
-    response = model.generate_content(prompt)
-    return response.text
+    try:
+        response = model.generate_content(prompt)
+        return response.text
+    except ValueError as e:
+        if "candidate.safety_ratings" in str(e):
+            st.error("There was an error, please refresh and try again.")
+            return None
+        else:
+            raise
 
 def main():
-    # st.image('images/logo.png', width=200)
-    st.columns(3)[1].image('images/logo.png', width=400)
-    st.title('Property Inquiry Chatbot')
+    st.image('images/logo.png', use_column_width='auto')
+    st.markdown("<h1 class='header'>Property Inquiry Chatbot</h1>", unsafe_allow_html=True)
 
     # Dropdown to select the property
-    property_name = st.selectbox("Select the property you're staying at:", options=properties_info['Unit name'].unique())
+    property_name = st.selectbox("Select the property you're staying at:", options=properties_info['Unit name'].unique(), format_func=lambda x: f"{x}", key='property_name')
     property_info = properties_info[properties_info['Unit name'] == property_name].iloc[0]
 
     # Prepare context
     context = property_info['context']
     
     # Get user input
-    user_question = st.text_input("What would you like to know?")
+    user_question = st.text_input("What would you like to know?", key='user_question')
 
     if user_question:
         response = generate_response(user_question, context)
 
-        # Check if the response is instructing to call Places API
-        if response.startswith("PLACES_API CALL"):
-            place_type = response.split(',')[1].strip().lower()
-            if place_type == 'gardens':
-                place_type = 'park'  # Adjust for missing types in API
-            places = fetch_nearby_places(property_info['latitude'], property_info['longitude'], place_type)
-            if places:
-                print('places_api_call')
-                # Format the places into a structured list for better readability
-                places_formatted = ', '.join([f"{idx + 1}. {place[0]} ({place[1]})" for idx, place in enumerate(places[:10])])
-                reply_with_places = f"Here are some nearby {place_type} you might find interesting:\n{places_formatted}"
-                st.write(reply_with_places)
+        if response is not None:
+            # Check if the response is instructing to call Places API
+            if response.startswith("PLACES_API CALL"):
+                place_type = response.split(',')[1].strip().lower()
+                if place_type == 'gardens':
+                    place_type = 'park'  # Adjust for missing types in API
+                places = fetch_nearby_places(property_info['latitude'], property_info['longitude'], place_type)
+                if places:
+                    places_formatted = ', '.join([f"{idx + 1}. {place[0]} ({place[1]})" for idx, place in enumerate(places[:10])])
+                    reply_with_places = f"Here are some nearby {place_type} you might find interesting:\n{places_formatted}"
+                    st.write(reply_with_places)
+                else:
+                    st.write(f"No nearby {place_type} found.")
             else:
-                st.write(f"No nearby {place_type} found.")
-        else:
-            # Display the original response if not a Places API call
-            st.write("Answer:", response)
+                # Display the original response if not a Places API call
+                st.write("Answer:", response)
 
 if __name__ == "__main__":
     main()
