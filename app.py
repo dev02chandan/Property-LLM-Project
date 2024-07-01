@@ -33,7 +33,7 @@ def fetch_nearby_places(lat, lon, place_type='restaurant'):
 # Load property data
 @st.cache_data
 def load_property_data():
-    file_path = 'data.xlsx'  # Adjust the file path if necessary
+    file_path = 'data_v2.xlsx'  # Adjust the file path if necessary
     df = pd.read_excel(file_path)
     return df
 
@@ -41,13 +41,27 @@ properties_info = load_property_data()
 
 # Function to generate responses using Gemini API
 def generate_response(query, context):
-    prompt = (
-        f"You are a sophisticated virtual assistant for XYZ Company, specializing in property management. "
-        f"Your task is to analyze the user's question '{query}' and determine the best way to respond. "
-        f"Consider the context: '{context}'. If the inquiry relates to specific local locations such as restaurants, playgrounds, or gyms, "
-        f"you should identify this need and respond with 'PLACES_API CALL,[location type]'. For more general inquiries about property features or details, "
-        f"use the available data from our property database to craft a detailed answer directly."
-    )
+    # prompt = (
+    #     f"You are a sophisticated virtual assistant for XYZ Company, specializing in property management. "
+    #     f"Your task is to analyze the user's question '{query}' and determine the best way to respond. "
+    #     f"Consider the context: '{context}'. If the inquiry relates to specific local locations such as restaurants, playgrounds, or gyms, "
+    #     f"you should identify this need and respond with 'PLACES_API CALL,[location type]'. For more general inquiries about property features or details, "
+    #     f"use the available data from our property database to craft a detailed answer directly."
+    # )
+
+    prompt = f'''
+                You are an advanced language model designed to assist with inquiries about rental properties based on specific context provided.
+                Your responses should be formal and detailed. 
+                Use the context to answer any questions as accurately as possible.
+                Context is given in triple backticks. 
+                If a question falls outside the given context, respond by stating that you cannot answer the question based on the information provided.
+
+                ```
+                {context}
+                ```
+
+                Question: {query}
+                '''
     response = model.generate_content(prompt)
     return response.text
 
