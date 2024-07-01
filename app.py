@@ -66,7 +66,8 @@ def generate_response(query, context):
     return response.text
 
 def main():
-    st.image('images/logo.png', width=200)
+    # st.image('images/logo.png', width=200)
+    st.columns(3)[1].image('images/logo.png', width=400)
     st.title('Property Inquiry Chatbot')
 
     # Dropdown to select the property
