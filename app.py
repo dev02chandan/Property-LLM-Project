@@ -19,6 +19,7 @@ st.markdown(
         text-align: center;
         color: #ca9630;
         font-family: Verdana;
+        padding-bottom: 50px;
     }
     .text-input {
         color: #ca9630;
@@ -74,6 +75,8 @@ properties_info = load_property_data()
 def generate_response(query, context):
     prompt = f'''
                 You are an advanced language model designed to assist with inquiries about rental properties. Your responses should be formal, detailed, and conversational, resembling how a kind and helpful person would converse. Use the provided information to answer any questions as accurately as possible. The information is given in triple backticks. 
+                If you think that the question is about nearby places, you can output: "PLACES_API_CALL,[place_type]", where place_type resembles what the person is asking about. 
+                If you are asked about Check in and check out, provide information about early check in and late check out as well which is subject to availiblity and extra fee. 
                 If you don't have the answer, Please say: "Unfortunately I am not aware how to answer that question. Can you try framing it in a different way?"
                 ```
                 {context}
@@ -110,15 +113,15 @@ def main():
 
         if response is not None:
             # Check if the response is instructing to call Places API
-            if response.startswith("PLACES_API CALL"):
+            if response.startswith("PLACES_API_CALL"):
                 place_type = response.split(',')[1].strip().lower()
                 if place_type == 'gardens':
                     place_type = 'park'  # Adjust for missing types in API
                 places = fetch_nearby_places(property_info['latitude'], property_info['longitude'], place_type)
                 if places:
-                    places_formatted = ', '.join([f"{idx + 1}. {place[0]} ({place[1]})" for idx, place in enumerate(places[:10])])
-                    reply_with_places = f"Here are some nearby {place_type} you might find interesting:\n{places_formatted}"
-                    st.write(reply_with_places)
+                    places_formatted = '<br>'.join([f"{idx + 1}. {place[0]} ({place[1]})" for idx, place in enumerate(places[:10])])
+                    reply_with_places = f"Here are some nearby {place_type} you might find interesting:<br>{places_formatted}"
+                    st.markdown(reply_with_places, unsafe_allow_html=True)
                 else:
                     st.write(f"No nearby {place_type} found.")
             else:
