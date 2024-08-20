@@ -1,0 +1,698 @@
+{
+    "The Real McCoy": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/The_Real_McCoy-102369-15",
+            "Airbnb": "https://www.airbnb.com/rooms/658522003554413078"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "2424 Walnut Ridge Way"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 2360
+        },
+        "MaxOccupancy": {
+            "value": 10
+        },
+        "Bedrooms": {
+            "value": 3
+        },
+        "FullBathrooms": {
+            "value": 3
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.6085
+            },
+            "Latitude": {
+                "value": 35.75112
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "There is parking space provided for 2-3 vehicles in the private paved roundabout driveway directly in front of the property. \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, turn the deadbolt.\n Wifi Name\n The Real McCoy\n Wifi Password\n 8657747966\n Wifi Notes\n Wifi Router Location\n Lower Level | Game Room | In the cabinet behind TV"
+        },
+        "Contacts": {
+            "details": "FireFly Lawn Care  +1 865-607-7520"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/OKKkiDbzhh4"
+        },
+        "AboutProperty": {
+            "description": "Location: The Real McCoy, a hidden retreat, is located in the rural part of Sevierville, Tennessee. This authentic downtown area is famous for its shopping options and proximity to the Great Smoky Mountains National Park. The home offers a unique off-the-beaten-path experience designed for those who seek stunning views, custom carpentry, and thoughtfully curated amenities.\n \n Outdoor Features: The property features extensive deck space, where you can soak in breathtaking views. Enjoy the tranquility and rich landscape from the comfort of the rocking chairs, making it a perfect spot for a serene morning coffee or reading session.\n \n Interior Amenities: Inside, the home presents a unique blend of a traditional cabin and a treehouse. The floor-to-ceiling wooden planks and large windows overlooking the treetops create a warm, organic ambiance. The living room boasts high peaked ceilings, ample seating, and deck access. A smart TV and a fireplace further enhance the cozy, relaxing environment. The kitchen is well-equipped with stainless steel appliances, including a blender, toaster, and coffee maker for your convenience. Mealtime options include a dining table inside or an al fresco setting on the deck.\n \n Sleeping Arrangements: The home can accommodate up to 10 guests across 3 bedrooms, futon, and a 2 queen sofa sleeper in the living room. Each bedroom features a king-size bed. Two of the bedrooms have private ensuite bathrooms, while the third offers a Jack and Jill style bathroom.\n \n Bathrooms: Bathroom #1 comes with a jetted tub and walk-in shower. Bathroom #2 features a walk-in shower, and Bathroom #3 has a shower/tub combo to accommodate all guests.\n \n Important Notes:\n \n Parking space for up to 3 vehicles is available in the private paved roundabout driveway in front of the home.\n 4WD/traction control may be required in winter months.\n TVs are streaming only. Cable/Satellite TV is not provided.\n The fireplace is seasonal and available for use from October through March.\n Local Attractions: The home's location in Sevierville is a notable birthplace of country singer Dolly Parton, and the family theme park Dollywood, jointly owned by Parton, is located under 10 miles from the home. For shopping enthusiasts, the town and surrounding areas are filled with galleries, boutiques, antique malls, flea markets, and more! Whether you're chasing waterfalls, tasting the best southern BBQ, or just exploring on a whim, you're sure to make unforgettable memories in Sevierville!\n \n Gas Grill"
+        },
+        "DrivingDirections": {
+            "details": "The Real McCoy (2424 Walnut Ridge Way, Sevierville, TN 37862)\n \n Start from McGhee Tyson Airport, head northwest on Terminal Loop Dr and continue straight onto W General Aviation Dr (0.4 miles, ~1 min).\n Turn right onto US-129 S (1.5 miles, ~4 min).\n Keep left to continue on TN-35 N/N Hall Rd and continue onto S Washington St (3.0 miles, ~8 min).\n Turn left onto US-321 N/E Lamar Alexander Pkwy (17.3 miles, ~25 min).\n Turn left onto US-321 N, pass by Dollar General (7.9 miles, ~15 min).\n Turn right onto Bryan Rd (0.6 miles, ~2 min).\n Turn left onto Valley View Rd and then right onto Little Cove Rd (1.4 miles, ~4 min).\n Take a slight left onto Bench Mountain Way, then turn right onto Bench Mountain Way/Shady Creek Way. Continue to follow Bench Mountain Way (0.3 miles, ~1 min).\n Take a slight right onto Black Bear Ridge Way/Bobcat Way and continue to follow Black Bear Ridge Way (0.3 miles, ~1 min).\n Turn left onto Walnut Ridge Way. Destination will be on the left (0.1 miles, ~1 min).\n Note: These times are based on road speed limit."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located on the main level deck.\n +AE2"
+        }
+    },
+    "Treetop Paradise": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Treetop_Paradise-102402-15",
+            "Airbnb": "https://www.airbnb.com/rooms/669464604242003293"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "3103 Perry Lane Circle"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 3020
+        },
+        "MaxOccupancy": {
+            "value": 15
+        },
+        "Bedrooms": {
+            "value": 3
+        },
+        "FullBathrooms": {
+            "value": 3
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.6179
+            },
+            "Latitude": {
+                "value": 35.71308
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest Access Code\n Guest Access Notes\n Parking\n \n There is parking space provided for up to 4 vehicles in the covered carport, with space for 2-3 more vehicles along the street.\n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, turn the deadbolt.\n Wifi Name\n ATTfiWRHqs\n Wifi Password\n nd2+i%gzk3n4\n Wifi Notes\n Wifi Router Location\n Main Level | Living Room | Between doors leading outside to deck"
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators\n +1 865-453-5860\n -\n FireFly Lawn Care & ...\n -\n +1 865-607-7520\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/BcAchEMAig8"
+        },
+        "AboutProperty": {
+            "description": "Location: Welcome to Treetop Paradise, aptly named for its elevated positioning among lush greenery. Located in the peaceful Wears Valley area of East Tennessee, this three-story home is perfect for large groups or multiple families. The home is close to local shops, restaurants, wineries, and distilleries and is a stone's throw from the \"secret\" Metcalf Bottoms entrance to the Great Smoky Mountains National Park.\n \n Outdoor Features: The main attraction of the property is the wraparound deck with a hot tub, which offers panoramic views of the surrounding landscape. The deck includes a grill and a covered dining area, allowing for outdoor meals with a view.\n \n Interior Amenities: Inside, the open-concept design and floor-to-ceiling wood furnishings create a cozy, inviting space. The living room features peaked wooden-plank ceilings, a fireplace, and comfortable seating. The fully equipped kitchen comes with a suite of appliances and an island with stools, perfect for prepping meals or casual socializing. A spacious dining table accommodates all guests. The property also boasts a private game room equipped with a pool table, multicade arcade game, wet bar, sofa sleeper, game table, and a twin-over-full bunk bed. The game room opens up to the lower level deck with a hot tub, offering even more entertainment space.\n \n Sleeping Arrangements: This 3000-square-foot home sleeps up to 15 guests comfortably. It includes three suite-style bedrooms, a loft, and additional beds in the game room. The primary bedroom on the third floor features a king bed, TV, en-suite with a jacuzzi tub and separate shower, and an adjacent private loft with a twin-over-twin bunk bed. The second bedroom on the main floor has a king bed, TV, walk-in closet, and a Jack-and-Jill style bathroom. The third bedroom, on the first floor, features a king bed, closet, and direct access to a full bath.\n \n Resort Amenities | No pass required:\n \n Guests have seasonal access to the Honeysuckle Meadows Pool (Memorial Day - Labor Day). Provide property name to gain access.\n Important Notes:\n \n Parking is available for up to 4 vehicles in the covered carport, with space for 2-3 more vehicles along the street.\n 4WD/traction control may be required in winter months.\n The fireplace is also seasonal and available for use from October through March.\n Local Attractions: The home is conveniently located 10 miles from the parkway in Pigeon Forge and less than 20 miles from the historic charm of downtown Gatlinburg. The property is also just 9 miles from Townsend, offering additional national park access, shops, dining, and river tubing. Famous country singer, Dolly Parton, was born in Sevier County, making it a must-visit for her fans. Dollywood, a theme park jointly owned by Parton, is less than 14 miles from the home. The town and surrounding areas offer a plethora of shopping options, from galleries and boutiques to antique malls and flea markets. Treetop Paradise offers a unique and enjoyable experience, whether you're chasing waterfalls, sampling the best southern BBQ, or simply enjoying your surroundings.\n \n \n \n \n \n \n \n Troubleshooting FIREPLACE: \n \n There is a remote for the fireplace that should be sitting on the coffee table .You will press the off button and the flame up button (the two buttons with the lines and spark drawn between them) at the same time to ignite the pilot. Then you will press the flame up Nd down buttons to control the flame.\n \n There should be a reset button on the remote box located on the right hand side of the log set in the fireplace. You are welcome to reset it. You will also want to check that the remote box is set to auto or remote and not manual. There is also a gas valve in that same area that you will want to make sure is parallel with the gas line. If you are still not able to get it working after trying all of these troubleshooting steps we can schedule someone to assist you with it tomorrow."
+        },
+        "DrivingDirections": {
+            "details": "Start from McGhee Tyson Airport, head northwest on Terminal Loop Dr and continue straight onto W General Aviation Dr (0.4 miles, ~1 min).\n Turn right onto US-129 S (1.5 miles, ~4 min).\n Keep left to continue on TN-35 N/N Hall Rd and continue onto S Washington St (3.0 miles, ~8 min).\n Turn left onto US-321 N/E Lamar Alexander Pkwy (17.3 miles, ~25 min).\n Turn left onto US-321 N, pass by Dollar General (7.9 miles, ~15 min)\n Turn right onto Robeson Rd (0.7 miles, ~2 min).\n Turn left onto Covemont Rd (0.2 miles, ~1 min).\n Turn right to stay on Covemont Rd (0.7 miles, ~3 min).\n Turn right onto J L Myers Rd (0.5 miles, ~2 min).\n Turn right onto Perry Cir Ln. Destination will be on the right (0.3 miles, ~1 min).\n Note: These times are based on road speed limit."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Rays Chalet": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Rays_Chalet-102536-15",
+            "Airbnb": "https://www.airbnb.com/rooms/725931619348454163"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "3913 Pittman Center"
+            },
+            "locality": {
+                "value": "Pigeon Forge"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37876
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 800
+        },
+        "MaxOccupancy": {
+            "value": 6
+        },
+        "Bedrooms": {
+            "value": 2
+        },
+        "FullBathrooms": {
+            "value": 1
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.4143
+            },
+            "Latitude": {
+                "value": 35.79348
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest\n Guest Access Code\n Guest Access Code\n Guest Access Notes\n Parking\n \n There is parking space provided for 2 vehicles on the wooden parking deck directly in front of the property. \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, turn the deadbolt.\n Wifi Name\n ATT-WIFI-R26T\n Wifi Password\n RaysChalet1\n Wifi Notes\n Wifi Router Location \n Main Level | Living Room | Lockbox on wall behind TV"
+        },
+        "Contacts": {
+            "details": "Jerry & Cindy\n -\n +1 865-654-9031\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/I0zUX9ap0aE"
+        },
+        "AboutProperty": {
+            "description": "Location: Ray\u2019s Chalet, a unique vacation home situated directly on the water, promises an unforgettable Smoky Mountain experience. Nestled in Pittman Center, the property offers quick and convenient access to both Pigeon Forge and Gatlinburg, with main attractions like Dollywood less than 10 miles away. Despite the nearby activities, the unique location and comfort of the chalet might make you never want to leave!\n \n Outdoor Features: The property boasts a large covered deck on the main level where guests can savor uninterrupted views of the river beneath them. Notably, keep a lookout for the local family of river otters! The home also provides direct water access, perfect for fishing or swimming.\n \n Interior Amenities: Upon entering, guests are greeted with an open living and kitchen space, complete with ample seating around a cozy fireplace. All interior spaces have been updated to offer a comfortable home away from home. The lower level houses two private bedrooms and a large full bathroom, and access to another deck that connects back to the main level.\n \n Sleeping Arrangements: This cabin accommodates guests in two private bedrooms, with one bedroom housing a King bed and the other outfitted with a Queen bed. Additional sleeping space is available in the living room with a pull-out sofa.\n \n Important Notes:\n \n Fishing is allowed for anyone ages 13 and up with an active TN fishing license. Children do not require a fishing license.\n A private washer and dryer are available for use.\n 4WD/traction may be required during winter months.\n Parking for up to two vehicles is provided.\n The fireplace is operational from October through March."
+        },
+        "DrivingDirections": {
+            "details": "Start by heading northwest on Terminal Loop Dr (23 ft, about a few seconds).\n Continue straight onto W General Aviation Dr (0.4 mi, about 1 min).\n Turn left onto US-129 N and continue for approximately 5.4 mi (about 6-7 min).\n Take the exit onto TN-168 E toward Tennessee Scenic Pkwy (0.3 mi, about 1 min).\n Merge onto TN-168 E and proceed for around 6.4 mi (about 7-8 min).\n Turn left onto W Norton Rd and continue for about 0.2 mi (about 30 seconds).\n Continue straight onto US-441 S. You'll pass by Sonic Drive-In on the left in about 4.4 mi. Continue for around 7.5 mi (about 8-10 min).\n Continue straight onto US-411 N/US-441 S for approximately 1.3 mi (about 2 min).\n Keep left to stay on US-411 N/US-441 S. Continue to follow US-411 N. You'll pass by KFC on the right in about 10.7 mi. Continue for approximately 12.7 mi (about 15-17 min).\n Turn right onto Old Tennessee 35 N and continue for about 0.6 mi (about 1-2 min).\n Continue onto TN-416 S/Pittman Center Rd for approximately 4.7 mi (about 7-8 min).\n Turn left onto TN-416 S. Your destination, 3913 Pittman Center Rd, will be on the left after approximately 4.2 mi (about 6-7 min).\n \n Please note that times are based on road speed limits."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Bearfoot Landing": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Bearfoot_Landing-102706-15",
+            "Airbnb": "https://www.airbnb.com/rooms/766599293166468020"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "2466 Hackberry Dr"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 3000
+        },
+        "MaxOccupancy": {
+            "value": 15
+        },
+        "Bedrooms": {
+            "value": 5
+        },
+        "FullBathrooms": {
+            "value": 4
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.6633
+            },
+            "Latitude": {
+                "value": 35.77981
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest Access Code\n \n Guest Access Notes\n Parking\n \n There is parking space provided for 4 vehicles in the private paved driveway directly in front of the property. \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, turn the deadbolt.\n Wifi Name\n Bearfootlanding\n Wifi Password\n Jfisji2088#\n Wifi Notes\n Wifi Router Location\n Main Level | Living Room | Fireplace Mantle"
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators ...\n -\n +1 865-206-9489\n -\n FireFly Lawn Care & ...\n -\n +1 865-607-7520\n -\n Ridge Valley Heat & ...\n -\n +1 865-428-6491\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/ebuZPUjaSEs"
+        },
+        "AboutProperty": {
+            "description": "Location: Bearfoot Landing is a luxury cabin nestled in the woods against the stunning backdrop of the Great Smoky Mountains. Situated in the rural part of Sevierville, this cabin offers close proximity to the authentic downtown area, the Great Smoky Mountains National Park, and Dollywood, the family theme park jointly owned by country singer Dolly Parton.\n \n Outdoor Features: This cabin boasts multi-level decks offering panoramic mountain views. The lower deck features a hot tub, games space, a swing, and an extended patio with a gas fire pit. The upper deck, lined with Adirondack chairs, includes an outdoor dining area.\n \n Interior Amenities: The cabin's interior provides equally breathtaking views, thanks to floor-to-ceiling windows. The cozy living area, complete with a stone fireplace, plush couches, and a smart TV, extends to an upstairs loft that doubles as an extra sleeping space. The rustic kitchen is fully equipped with stainless steel appliances and a large island. The cabin also offers a game room with a pool table, arcade games, and a movie screening area featuring an 85-inch smart TV.\n \n Sleeping Arrangements: The property can comfortably sleep up to 15 guests. It has five private bedrooms, with three bedrooms featuring king-size beds and ensuite bathrooms, a fourth bedroom with a king-size bed, and a bunk bedroom with a twin bed on top and a full bed at the bottom and futon. The loft area has a futon for additional sleeping space.\n \n Important Notes:\n \n In-unit washer and dryer are available.\n Parking for four vehicles is provided in the driveway.\n 4WD/traction control may be required during winter months.\n The fireplace is seasonal and can be used from October through March.\n Local Attractions: Located 7 miles from downtown Pigeon Forge, the Great Smoky Mountains National Park, and Dollywood, Bearfoot Landing is the perfect base for exploration. Discover unique shopping experiences in galleries, boutiques, antique malls, and flea markets in and around the town. Whether you're chasing waterfalls, enjoying southern BBQ, or simply exploring at your own pace, lasting memories are guaranteed in The Great Smoky Mountains!"
+        },
+        "DrivingDirections": {
+            "details": "Start from McGhee Tyson Airport, head northwest on Terminal Loop Dr and continue straight onto W General Aviation Dr (0.4 miles, ~1 min).\n Turn right onto US-129 S (1.5 miles, ~4 min).\n Keep left to continue on TN-35 N/N Hall Rd and continue onto S Washington St (3.0 miles, ~8 min).\n Turn left onto US-321 N/E Lamar Alexander Pkwy (9.0 miles, ~13 min).\n Turn left onto E Millers Cove Rd and continue straight onto Old Walland Hwy (0.2 miles, ~1 min).\n Turn left onto E Millers Cove Rd (6.0 miles, ~12 min).\n Take a slight left to stay on E Millers Cove Rd (0.3 miles, ~1 min).\n Continue onto Waldens Creek Rd (4.3 miles, ~9 min).\n Turn left to stay on Waldens Creek Rd (0.6 miles, ~2 min).\n Turn left onto Cedar Falls Way (0.1 miles, ~1 min).\n Turn right onto Maple Leaf Way (0.3 miles, ~1 min).\n Turn right onto Carnes Hollow Way, then right onto McMahan Sawmill Rd (0.3 miles, ~1 min).\n Turn left onto Cub Cir, continue straight onto Sawmill Branch Dr (0.3 miles, ~1 min).\n Turn right onto Cats Paw Ln, then right onto Sawmill Branch Dr/Smoky Bluff Trail (0.7 miles, ~2 min).\n Turn right onto Smoky Bluff Trl, then left onto Hackberry Dr. Destination will be on the right (0.4 miles, ~1 min).\n \n Note: These times are based on road speed limit."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Sliver of Paradise": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Sliver_of_Paradise-102756-15",
+            "Airbnb": "https://www.airbnb.com/rooms/785464657702765446"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "1014 Gray Wolf Dr"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 1000
+        },
+        "MaxOccupancy": {
+            "value": 4
+        },
+        "Bedrooms": {
+            "value": 2
+        },
+        "FullBathrooms": {
+            "value": 2
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 1
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.608
+            },
+            "Latitude": {
+                "value": 35.81405
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest Access Code\n 0808\n Guest Access Notes\n Parking\n \n There is parking space provided for 2 vehicles in the shared paved driveway directly in front of the property. \n This is a duplex property, and you have reserved the back unit. Follow the paved walkway around the right of the property to the main entry door. \n \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, press the Schlage button at the top of the lock and turn the deadbolt.\n Wifi Name\n Piece of Paradise\n Wifi Password\n WeLove5StarReviews!\n Wifi Notes\n Wifi Router Location \n 1016 | King Bedroom | Behind Nightstand \n \n **Contact guest services for assistance with wifi issues."
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators\n -\n +1 865-453-5860\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/cGPi3qy8eBA"
+        },
+        "AboutProperty": {
+            "description": "Location: Situated amidst the stunning backdrop of the Great Smoky Mountains, Sliver of Paradise offers a serene retreat. The property is a short 2.5-mile drive from the bustling city of Pigeon Forge, known for its vibrant shopping, dining, and entertainment options. Its location is also commendable for its close proximity to the Great Smoky Mountains National Park, just 11 miles away.\n \n Outdoor Features: The property boasts a sprawling patio equipped with a hot tub, grill, and comfortable seating. Adorned with twinkling string lights, this outdoor space offers a perfect private oasis to enjoy the fresh mountain air, soak in the hot tub, or simply relax and have a conversation under the stars.\n \n Interior Amenities: Designed to provide a homely feeling, the living room features plush leather couches, a smart TV, and a cozy electric fireplace, ideal for relaxing evenings. The adjacent charming kitchen is well-equipped with a full suite of appliances, cookware, and convenient amenities like a coffee maker, blender, and toaster. The dining table with seating for six is perfect for sharing delicious home-cooked meals and memorable times.\n \n Sleeping Arrangements: Sliver of Paradise comfortably sleeps 4 guests in two private bedrooms. Bedroom #1 comes with a king-size bed, a TV, and an ensuite bathroom with a shower/tub combo. Bedroom #2 also features a king-size bed and a TV.\n \n Important Notes:\n \n The property includes an additional shared bathroom with a shower/tub combo.\n Parking space for 2 vehicles is provided in the shared driveway.\n A private washer and dryer are available in the unit.\n 4WD/traction control may be required during winter months.\n The fireplace is seasonal and available for use from October through March.\n Local Attractions: The property is ideally located near several attractions. Dollywood, a family theme park co-owned by famous country music singer Dolly Parton, is just 6.5 miles away. Shopping enthusiasts can find a variety of shopping venues such as galleries, boutiques, antique malls, flea markets, and more in the town and surrounding areas. Whether it's exploring the trails of the national park, chasing waterfalls, catching a show, savoring the best southern BBQ, or just wingin\u2019 it, Sliver of Paradise offers the opportunity for guests to make lasting memories while visiting The Great Smoky Mountains."
+        },
+        "DrivingDirections": {
+            "details": "Start from McGhee Tyson Airport, head northwest on Terminal Loop Dr and continue straight onto W General Aviation Dr (0.4 miles, ~1 min).\n Turn right onto US-129 S (1.5 miles, ~4 min).\n Keep left to continue on TN-35 N/N Hall Rd, continue onto S Washington St (3.0 miles, ~8 min).\n Merge onto US-411 N via the ramp to Interstate 40 E/Knoxville/Maryville (6.2 miles, ~7 min).\n Merge onto I-40 E (18.9 miles, ~17 min).\n Take exit 407 for TN-66 toward Sevierville/Pigeon Forge/Gatlinburg (0.3 miles, ~1 min).\n Turn right onto TN-66 S/Winfield Dunn Pkwy, pass by Pizza Hut (on the right in 7.7 miles) (8.2 miles, ~14 min).\n Continue onto Forks of the River Pkwy. Pass by Krystal (on the right) (0.6 miles, ~2 min).\n Forks of the River Pkwy turns right and becomes US-441 S/Parkway. Pass by Hardee's (on the right in 1.3 mi) (3.2 miles, ~7 min).\n Turn right onto Appalachia Dr (0.1 miles, ~1 min).\n Turn left onto Meadowbrook Dr (423 ft, ~1 min).\n Turn left onto Fenway Dr (236 ft, ~1 min).\n Turn right onto Henderson Rd (0.5 miles, ~2 min).\n Turn left onto Sharp Hollow Rd (1.3 miles, ~3 min).\n Turn right onto Gray Wolf Dr. Destination will be on the right (377 ft, ~1 min).\n Note: These times are based on road speed limit."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Secluded in Paradise": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Secluded_in_Paradise-102757-15",
+            "Airbnb": "https://www.airbnb.com/rooms/785468451841651177"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "1016 Gray Wolf Dr"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 2000
+        },
+        "MaxOccupancy": {
+            "value": 7
+        },
+        "Bedrooms": {
+            "value": 2
+        },
+        "FullBathrooms": {
+            "value": 2
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.608
+            },
+            "Latitude": {
+                "value": 35.81405
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest\n Guest Access Code\n 4842\n Guest Access Notes\n Parking\n \n There is parking space provided for 2 vehicles in the shared paved driveway directly in front of the property. \n This is a duplex property, and you have reserved the front unit. The entry door is located in the front of the unit facing the driveway.\n \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, press the Schlage button at the top of the lock and turn the deadbolt.\n Wifi Name\n Piece of Paradise\n Wifi Password\n WeLove5StarReviews!\n Wifi Notes\n Wifi Router Location \n 1016 | King Bedroom | Behind Nightstand"
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators\n -\n +1 865-453-5860\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/J-7i-iwObOY"
+        },
+        "AboutProperty": {
+            "description": "Location: Nestled in the serene Great Smoky Mountains, Secluded in Paradise is a charming property perfect for a peaceful retreat. Situated just 2.5 miles from the lively city of Pigeon Forge, the property gives guests the opportunity to experience both the tranquil beauty of the mountains and the bustling city life with shopping, dining, and entertainment options. The location is also notable for its proximity to the Great Smoky Mountains National Park, which is a mere 11 miles away.\n \n Outdoor Features: Surrounded by towering trees, the property's private patio is an oasis in itself. It is equipped with a hot tub, a grill, and comfortable seating arrangements, allowing guests to enjoy the beautiful mountain setting. This serene outdoor space is perfect for a quiet morning coffee, alfresco dining, or an evening soak in the hot tub under the stars.\n \n Interior Amenities: Inside the home, you'll find a warm and welcoming environment that may tempt you to stay indoors. The living room, featuring plush leather couches and a cozy electric fireplace, is perfect for relaxing and watching a movie on the smart TV. Adjacent to this is the fully equipped kitchen with a complete suite of appliances and cookware, as well as a coffee maker, blender, and toaster for your convenience.\n \n Sleeping Arrangements: Secluded in Paradise accommodates 7 guests across two private bedrooms. The primary bedroom houses a king-size bed, a TV, and an ensuite bathroom with a shower/tub combo. The second bedroom is furnished with a bunk bed that includes a twin/queen with a full trundle and a TV.\n \n Important Notes:\n \n An additional bathroom with a shower/tub combo is available.\n Parking space for 2 vehicles is provided in the shared driveway.\n A washer and dryer are available in the unit.\n 4WD/traction control may be required during winter months.\n The fireplace is seasonal and available for use from October through March.\n Local Attractions: The property is in close proximity to several attractions. It is about 6.5 miles away from Dollywood, a family theme park co-owned by the renowned country music singer, Dolly Parton. Additionally, shopping enthusiasts will be thrilled by the wide variety of shopping options, including galleries, boutiques, antique malls, flea markets, and more in the town and surrounding areas. Whether it's exploring the trails of the national park, chasing waterfalls, catching a show, or savoring the best southern BBQ, guests at Secluded in Paradise are sure to create lasting memories."
+        },
+        "DrivingDirections": {
+            "details": "From I-40 exit 407, continue towards Winfield Dunn Pkwy (154 ft)\n Head north towards Winfield Dunn Pkwy (102 ft)\n Turn right towards Winfield Dunn Pkwy (52 ft)\n Continue on Winfield Dunn Pkwy towards Pigeon Forge (8.2 mi, approx 21 min)Note: You will pass by Pizza Hut on the right after about 7.7 mi.\n Continue onto Forks of the River Pkwy (0.6 mi)Note: You will pass by Krystal on the right.\n The Forks of the River Pkwy turns right and becomes US-441 S/Parkway (3.2 mi)Note: You will pass by Hardee's on the right after about 1.3 mi.\n Take a right turn onto Appalachia Dr (0.1 mi)\n Turn left onto Meadowbrook Dr (423 ft)\n Turn left onto Fenway Dr (236 ft)\n Turn right onto Henderson Rd (0.5 mi)\n Turn left onto Sharp Hollow Rd (1.3 mi, approx 6 min)\n Turn right onto Gray Wolf Dr, your destination will be on the right (377 ft)\n Please note that times are based on road speed limits."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Piece of Paradise": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Piece_of_Paradise-102758-15",
+            "Airbnb": "https://www.airbnb.com/rooms/785472072046978860"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "1014 & 1016 Gray Wolf Dr"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37862
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 1000
+        },
+        "MaxOccupancy": {
+            "value": 11
+        },
+        "Bedrooms": {
+            "value": 4
+        },
+        "FullBathrooms": {
+            "value": 4
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 1
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.608
+            },
+            "Latitude": {
+                "value": 35.81405
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest Access Code\n 0808\n Guest Access Notes\n Parking\n \n There is parking space provided for 2-4 vehicles in the private paved driveway directly in front of the property. \n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, press the Schlage button at the top of the lock then turn the deadbolt.\n Wifi Name\n Piece of Paradise\n Wifi Password\n WeLove5StarReviews!\n Wifi Notes\n Wifi Router Location\n 1016 | King Bedroom | Behind Nightstand"
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators\n -\n +1 865-453-5860\n -\n Elite Lawn Care | Bl...\n -\n +1 225-400-2134\n -"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/RHf53hJCJ9A"
+        },
+        "AboutProperty": {
+            "description": "Location: This unique rental, Piece of Paradise, located amidst the unrivaled beauty of the Great Smoky Mountains, consists of two private units on the same property. It's an ideal setup for a group or families traveling together, offering the perfect balance of shared spaces for group activities and private areas for quiet relaxation and unwinding.\n \n Outdoor Features: Each unit features its own outdoor area complete with a hot tub and grill, providing guests ample space to soak in the stunning natural surroundings or enjoy an outdoor meal.\n \n Interior Amenities: Both units are welcoming and equipped with comfortable living rooms featuring leather couches, smart TVs, and cozy electric fireplaces. The kitchens, just a few steps away, are fully equipped with appliances, cookware, coffee makers, blenders, and toasters for your convenience. Formal dining tables in both units provide the setting for memorable indoor meals.\n \n Sleeping Arrangements: The property comfortably sleeps 8 guests across four private bedrooms, each equipped with a TV.\n \n Important Notes:\n \n The property has two additional shared bathrooms, one with a shower/tub combo and a half bath.\n How to operate or turn on the shower: Pull down from the bottom of the spout where the water comes out\n \n Parking for up to four vehicles is available in the private driveway.\n Each unit contains a private washer and dryer.\n 4WD/traction may be required during winter months.\n The fireplace is seasonal and operational from October through March.\n Local Attractions: Located just a short 2.5-mile drive from the vibrant city of Pigeon Forge, known for its abundant shopping, dining, and entertainment options, as well as its proximity to the Great Smoky Mountains National Park (11 miles). The region is of particular interest to country music fans as Dolly Parton was born in Sevier County, and her family theme park, Dollywood, is only about 6.5 miles away. Additionally, the area is rich in shopping options, with numerous galleries, boutiques, antique malls, flea markets, and more. From chasing waterfalls and attending shows to seeking out the best southern BBQ or just wingin\u2019 it, the Great Smoky Mountains promises an unforgettable visit."
+        },
+        "DrivingDirections": {
+            "details": "From I-40 exit 407, continue towards Winfield Dunn Pkwy (154 ft)\n Head north towards Winfield Dunn Pkwy (102 ft)\n Turn right towards Winfield Dunn Pkwy (52 ft)\n Continue on Winfield Dunn Pkwy towards Pigeon Forge (8.2 mi, approx 21 min)Note: You will pass by Pizza Hut on the right after about 7.7 mi.\n Continue onto Forks of the River Pkwy (0.6 mi)Note: You will pass by Krystal on the right.\n The Forks of the River Pkwy turns right and becomes US-441 S/Parkway (3.2 mi)Note: You will pass by Hardee's on the right after about 1.3 mi.\n Take a right turn onto Appalachia Dr (0.1 mi)\n Turn left onto Meadowbrook Dr (423 ft)\n Turn left onto Fenway Dr (236 ft)\n Turn right onto Henderson Rd (0.5 mi)\n Turn left onto Sharp Hollow Rd (1.3 mi, approx 6 min)\n Turn right onto Gray Wolf Dr; your destination will be on the right (377 ft)\n Please note that times are based on road speed limits."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    },
+    "Woodland Wonder": {
+        "Websites": {
+            "Primary": "https://www.grandwelcome.com/vrp/unit/Woodland_Wonder-102853-15",
+            "Airbnb": "https://www.airbnb.com/rooms/815888950061579742"
+        },
+        "SuppliesDuringArrival": {
+            "details": "1 set of towels (bath towel, hand towel, washcloth) per occupant (up to max occupancy on listing)\n 2 rolls of toilet paper, bar soap or liquid soap dispenser, and wastebasket trash bag per bathroom\n Shampoo, Conditioner, &amp; Body Wash pump bottle per full bathroom\n 2 rolls of paper towels, fresh sponge, dish soap, 3 loads of dishwasher detergent, 3 trash bags per kitchen.\n 3 loads of laundry detergent per home (with in-house laundry systems)"
+        },
+        "Location": {
+            "streetAddress": {
+                "value": "1950 SB Ogle Ln"
+            },
+            "locality": {
+                "value": "Sevierville"
+            },
+            "region": {
+                "value": "TN"
+            },
+            "postal": {
+                "value": 37876
+            },
+            "country": {
+                "value": "US"
+            }
+        },
+        "Area": {
+            "value": 2063
+        },
+        "MaxOccupancy": {
+            "value": 8
+        },
+        "Bedrooms": {
+            "value": 4
+        },
+        "FullBathrooms": {
+            "value": 3
+        },
+        "ThreeQuarterBathrooms": {
+            "value": 0
+        },
+        "HalfBathrooms": {
+            "value": 0
+        },
+        "Timezone": {
+            "value": "America/New_York"
+        },
+        "Coordinates": {
+            "Longitude": {
+                "value": -83.5227
+            },
+            "Latitude": {
+                "value": 35.8101
+            }
+        },
+        "CheckinCheckout": {
+            "CheckinTime": {
+                "value": "16:00:00"
+            },
+            "CheckoutTime": {
+                "value": "10:00:00"
+            },
+            "EarlyCheckinTime": {
+                "value": "12:00:00"
+            },
+            "LateCheckoutTime": {
+                "value": "15:00:00"
+            }
+        },
+        "Access": {
+            "details": "Guest Access Code\n \n Guest Access Notes\n Parking\n \n There is parking space provided for 2-4 vehicles in the private paved driveway directly in front of the property. \n The driveway is steep and narrow, so we recommend passing the driveway, turning around, and pulling in from the other direction.\n The entry door is equipped with an electronic lock\n \n The code will activate right at 4 PM\n To unlock, enter the code provided, the lock will flash green, then turn the deadbolt.\n The door does NOT lock automatically so please lock it when you leave.\n To lock, turn the deadbolt.\n Wifi Name\n ATTrdDtG4I\n Wifi Password\n qryzkhukc3xe\n Wifi Notes\n Wifi Router Location\n Main Level | Living Room | Fireplace Mantle"
+        },
+        "Contacts": {
+            "details": "Arrow Exterminators\n -\n +1 865-453-5860\n -\n FireFly Lawn Care & ...\n -\n +1 865-607-7520"
+        },
+        "PropertyGuideLink": {
+            "link": "https://guide.breezeway.io/btfWOZYOMHc"
+        },
+        "AboutProperty": {
+            "description": "Location: Welcome to Woodland Wonder, a charming 4-bedroom cabin tucked away in the rural part of Sevierville, East Tennessee. The property\u2019s serene and rustic setting is perfect for families and groups looking for an authentic mountain experience while still being close to local attractions and conveniences.\n \n Outdoor Features: Outside, a spacious deck boasts rocking chairs and a private hot tub, inviting guests to unwind amidst the tranquility of nature.\n \n Interior Amenities: Inside, the cozy living room with its wood-burning fireplace is perfect for group gatherings and relaxed movie nights on the smart TV. The fully equipped kitchen radiates rustic charm, making meal preparation and dining an enjoyable affair. Woodland Wonder also features a game loft, complete with pool and card tables for some friendly competition among your group.\n \n Sleeping Arrangements: The cabin comfortably sleeps eight guests across four private bedrooms. Two of the bedrooms are equipped with a king-size bed and TVs. The additional 2 bedrooms each have a queen-size bed and a TV.\n \n Important Notes:\n \n The driveway is steep and narrow, so we recommend passing the driveway, turning around, and pulling in from the other direction.\n Parking space for four vehicles is available in the driveway.\n The fireplace is seasonal and available for use from October through March.\n There are two additional bathrooms in the home, both featuring shower/tub combos. \n Guests can also make use of the in-unit washer and dryer\n Local Attractions: Sevierville, a popular city known for its authentic downtown, shopping options, and proximity to the Great Smoky Mountains National Park, is just 11 miles away from the property. The national park itself is a short 10-mile drive away. Dollywood, a family theme park jointly owned by country singer Dolly Parton, who was born in Sevier County, is about 10 miles from the cabin. For those seeking retail therapy, the town and surrounding areas are rich in shopping venues, including galleries, boutiques, antique malls, flea markets, and more. Whether you\u2019re chasing waterfalls, sampling the best southern BBQ, or enjoying a leisurely holiday, Woodland Wonder offers the perfect setting for lasting memories in the Great Smoky Mountains."
+        },
+        "DrivingDirections": {
+            "details": "Start from I-40 Exit 407 and continue onto Winfield Dunn Pkwy (approximate time 2 min, distance 154 ft).\n Head north toward Winfield Dunn Pkwy (102 ft).\n Turn right toward Winfield Dunn Pkwy (52 ft).\n Continue on Winfield Dunn Pkwy. Then, take TN-416 S/Pittman Center Rd to Old Birds Creek Rd (approximate time 32 min, distance 18.7 mi).\n Turn right onto Winfield Dunn Pkwy. Please note that you will pass by Pizza Hut on the right in approximately 7.7 mi.\n Turn left onto North Pkwy and continue for 0.6 mi.\n Use any lane to turn left onto E Main St and proceed for 0.5 mi.\n Continue onto Dolly Parton Pkwy. KFC will be on your right in about 0.6 mi. Continue for 2.6 mi.\n Turn right onto Old Tennessee 35 N and continue for 0.6 mi.\n Continue onto TN-416 S/Pittman Center Rd for approximately 4.7 mi.\n Continue straight onto TN-454 for around 1.7 mi.\n Continue on Old Birds Creek Rd and drive to SB Ogle Ln (approximate time 1 min, distance 0.5 mi).\n Turn right onto Old Birds Creek Rd and proceed for 0.3 mi.\n Finally, turn right onto SB Ogle Ln. After approximately 0.2 mi, you will arrive at your destination, 1950 SB Ogle Ln.\n Please note that times are based on road speed limits."
+        },
+        "TrashInfo": {
+            "details": "Dispose of bagged and tied trash inside the bear-proof trash bin located in the driveway."
+        }
+    }
+}

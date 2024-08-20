@@ -2,3 +2,5 @@ venv/
 notes.txt
 data_v3.xlsx
 data.xlsx
+.DS_Store
+data/data_v2.xlsx
